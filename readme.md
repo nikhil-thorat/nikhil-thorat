@@ -4,19 +4,17 @@ I turn mess into abstractions and bugs into “unexpected features”.
 
 ---
 
-## What happens here 🧠
+## What I do 🧠
 
 - I build things that probably didn’t need to be built from scratch.
 - I rewrite working code just to understand what it's hiding.
-- I question APIs.
-- I question complexity.
 - I occasionally question reality.
 
 ---
 
 ## Current Obsessions ⚙️
 
-- Falling deeper in love with C (yes, manually).
+- Falling deeper in love with C (intentionally).
 - Exploring how memory *actually* behaves.
 - Making systems behave under pressure.
 - Building things that scale before they deserve to.
@@ -30,15 +28,13 @@ C / C++
 Go  
 TypeScript  
 Python  
-Morse Code (Yes, I can understand and interpret it)
-
-(Some of them fight back harder than others.)
+Morse Code (I have a Life!)
 
 ---
 
 ## Outside the Terminal 🎸🍕
 
-- Classical guitar pieces that melt the brain and heart.
+- Classical guitar pieces that melt the brain and sometimes heart.
 - Pizza as a productivity multiplier.
 - Silence. Thinking. Overthinking.
 
