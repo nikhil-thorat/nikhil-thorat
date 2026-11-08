@@ -2,7 +2,7 @@
   <img
     src="./images/cat.gif"
     width="1000"
-    height="180"
+    height="320"
     alt="Sleeping cat"
   />
 </p>
