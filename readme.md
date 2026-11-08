@@ -1,6 +1,11 @@
-<div>
-  <img width="1000" src="./images/cat.gif" alt="nikhil-thorat" />
-</div>
+<p align="center">
+  <img
+    src="./images/cat.gif"
+    width="1000"
+    height="180"
+    alt="Sleeping cat"
+  />
+</p>
 
 # Hi, I'm Nikhil 
 > ### A little bit of systems. A little bit of strings. A lot of curiosity.
