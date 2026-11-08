@@ -1,5 +1,5 @@
 <div>
-  <img width="1000" src="./images/background.gif" alt="nikhil-thorat" />
+  <img width="1000" src="./images/cat.gif" alt="nikhil-thorat" />
 </div>
 
 # Hi, I'm Nikhil 
