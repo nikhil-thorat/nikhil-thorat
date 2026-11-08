@@ -7,42 +7,35 @@
   />
 </p>
 
-# Hi, I'm Nikhil 
-> ### A little bit of systems. A little bit of strings. A lot of curiosity.
+# Hi, I'm Nikhil!
 
-I like taking things apart to understand how they work. Sometimes it's software, sometimes a chess position, and occasionally my patience with a Rubik's Cube.
+> A little bit of systems. A little bit of strings. A lot of curiosity.
 
-I'm a software engineer drawn to **backend engineering and systems development**. I enjoy building things, getting lost in interesting problems, and figuring out what happens beneath the surface.
+I'm a software engineer drawn to **backend engineering and systems development**. I like taking things apart, understanding how they work, and building things worth keeping.
 
-When I'm away from the keyboard, you'll probably find me with a classical guitar, a chessboard, or looking for somewhere I haven't been before.
+When I'm not coding, I'm probably making music, solving puzzles, or wandering somewhere unfamiliar. I have a soft spot for quiet moments and good conversations.
 
-I like quiet places, good music, curious minds, and conversations that go somewhere unexpected.
+### Things I've worked on.
 
-### What I've work on.
+- ![MiniDB](https://github.com/nikhil-thorat/minidb) - An in-memory database built from scratch in C.
+- ![Relay](https://github.com/nikhil-thorat/relay) - A modular HTTP load balancer in Go.
+- ![Fwdly](https://github.com/nikhil-thorat/fwdly) - A URL-shortening platform built with Go and distributed services.
+- ![CHIP8](https://github.com/nikhil-thorat/chip8) - A tiny virtual machine brought to life in C.
 
-A few things I've been putting together.
+### Languages I write.
 
-| Project | What it's about |
-|:--|:--|
-| [**MiniDB**](https://github.com/nikhil-thorat/minidb) | A little database, built from scratch in C. Memory management, hashing, and performance. |
-| [**Relay**](https://github.com/nikhil-thorat/relay) | A modular HTTP load balancer in Go. Traffic needs somewhere to go. |
-| [**Fwdly**](https://github.com/nikhil-thorat/fwdly) | Building a URL-shortening platform with Go, PostgreSQL, Redis and Kafka. |
-| [**CHIP8**](https://github.com/nikhil-thorat/chip8) | Bringing a tiny virtual machine to life, one instruction at a time. |
-| [**PlaceMate**](https://github.com/CODEFORBLIND/placemate) | Making the placement process a little less painful. |
+`C` · `C++` · `Go` · `TypeScript` · `Python`
 
-### What I write.
+And also `Markdown` for robot.
 
-`C` `C++` `Go` `TypeScript` `Python`
+Backend systems, infrastructure, Linux, databases, and the occasional rabbit hole.
 
-Mostly backend systems, infrastructure, Linux, databases, and anything that makes me ask *"how does that actually work?"*
+### Things I do in free time.
 
-### What I do in free time.
+Classical guitar, chess, Rubik's Cubes, photography, and exploring unfamiliar places. Currently trying to make friends with a few pieces by **Francisco Tárrega.**
 
-Currently trying to make sense of classical guitar pieces by **Francisco Tárrega.**
-Also into chess, Rubik's Cubes, photography, drawing, and exploring unfamiliar places.
+> Always happy to meet curious minds, exchange ideas, and build something interesting.
 
-### What I like.
+![Portfolio](https://nikhil-thorat.vercel.app) · ![LinkedIn](https://linkedin/in/iamnikhilthorat) · ![Email](mailto:work.nikhilthorat@gmail.com)
 
-I'm always interested in meeting curious people, exchanging ideas, and building things worth building.
-
-[Portfolio](https://nikhil-thorat.vercel.app) · [LinkedIn](https://linkedin.com/in/iamnikhilthorat) · [Email](mailto:work.nikhilthorat@gmail.com)
+<sub>Made with curiosity, a little stubbornness, and probably too much coffee.</sub>
