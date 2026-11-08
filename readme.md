@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     src="./images/cat.gif"
@@ -26,13 +27,14 @@ When I'm not coding, I'm probably making music, solving puzzles, or wandering so
 
 `C` · `C++` · `Go` · `TypeScript` · `Python`
 
-And also `Markdown` for robot.
+And also `Markdown` for a robot.
 
-Backend systems, infrastructure, Linux, databases, and the occasional rabbit hole.
+Backend systems, infrastructure as code, Linux/POSIX apis, databases, and the occasional rabbit hole.
 
 ### Things I do in free time.
 
-Classical guitar, chess, Rubik's Cubes, photography, and exploring unfamiliar places. Currently trying to make friends with a few pieces by **Francisco Tárrega.**
+Classical guitar, chess, Rubik's Cubes, photography, and exploring unfamiliar places. 
+Currently learning classical pieces by **Francisco Tárrega.**
 
 > Always happy to meet curious minds, exchange ideas, and build something interesting.
 
