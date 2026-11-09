@@ -38,6 +38,6 @@ Currently learning classical pieces by **Francisco Tárrega.**
 
 > Always happy to meet curious minds, exchange ideas, and build something interesting.
 
-![Portfolio](https://nikhil-thorat.vercel.app) · ![LinkedIn](https://linkedin/in/iamnikhilthorat) · ![Email](mailto:work.nikhilthorat@gmail.com)
+![Portfolio](https://nikhil-thorat.vercel.app) · ![LinkedIn](https://linkedin.com/in/iamnikhilthorat) · ![Email](mailto:work.nikhilthorat@gmail.com)
 
 <sub>Made with curiosity, a little stubbornness, and probably too much coffee.</sub>
