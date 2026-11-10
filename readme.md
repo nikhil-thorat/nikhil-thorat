@@ -16,12 +16,16 @@ I'm a software engineer drawn to **backend engineering and systems development**
 
 When I'm not coding, I'm probably making music, solving puzzles, or wandering somewhere unfamiliar. I have a soft spot for quiet moments and good conversations.
 
+---
+
 ### Things I've worked on.
 
 - ![MiniDB](https://github.com/nikhil-thorat/minidb) - An in-memory database built from scratch in C.
 - ![Relay](https://github.com/nikhil-thorat/relay) - A modular HTTP load balancer in Go.
 - ![Fwdly](https://github.com/nikhil-thorat/fwdly) - A URL-shortening platform built with Go and distributed services.
 - ![CHIP8](https://github.com/nikhil-thorat/chip8) - A tiny virtual machine brought to life in C.
+
+---
 
 ### Languages I write.
 
@@ -31,12 +35,16 @@ And also `Markdown` for a robot.
 
 Backend systems, infrastructure as code, Linux/POSIX apis, databases, and the occasional rabbit hole.
 
+---
+
 ### Things I do in free time.
 
 Classical guitar, chess, Rubik's Cubes, photography, and exploring unfamiliar places. 
 Currently learning classical pieces by **Francisco Tárrega.**
 
 > Always happy to meet curious minds, exchange ideas, and build something interesting.
+
+---
 
 ### Socials
 
